@@ -1,0 +1,25 @@
+.ms-background {
+    background-color: #1d2d3c;
+}
+header {
+    background-color: #06131f;
+}
+.ms-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.logo {
+    width: 30px;
+}
+
+.ms-card {
+    background-color: #112030;
+    color: #fff;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    display: inline-block;
+}
